@@ -1,16 +1,15 @@
-### Hi there 👋
+## スキルセット
 
-<!--
-**HikaruKurodq/HikaruKurodq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Swift
+  - 経験年数: 2年 > (個人開発, 2022/04から案件に参加)
+  - UIKit, SwiftUI
+  - MVC, MVP, MVVM
 
-Here are some ideas to get you started:
+- Flutter
+  - 経験年数: 3ヶ月
+  - MVVM + Repository
+  - Provider, Riverpod
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Firebase
+  - 経験年数: 1.5年 > (個人開発)
+  - Auth, Firestore, Storage, Cloud Functions
