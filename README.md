@@ -16,4 +16,3 @@
 
 ## コンタクト
 - h1kqaa@gmail.com
-- [Twitter](https://twitter.com/ruu_nyan_nyan)
