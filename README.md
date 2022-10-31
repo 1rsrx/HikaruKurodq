@@ -19,6 +19,10 @@
 - SwiftDate
 - SwiftyUserDefaults
 
+#### その他
+- アーキテクチャ: MVVM
+- 通信周り: Swift Concurrency
+
 ## InputSourceViewer
 ### 概要
 - 入力ソースを画面上に表示するアプリ
