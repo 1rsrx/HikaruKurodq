@@ -46,3 +46,7 @@
 
 #### ライブラリ
 - Realm
+
+## My Articles
+- [Qiita](https://qiita.com/HikaruKuroda)
+- [Zenn](https://zenn.dev/rururun)
