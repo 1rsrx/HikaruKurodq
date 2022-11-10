@@ -4,7 +4,7 @@
 ### 概要
 - コーヒーのレシピ管理アプリ
 - 対応OS: iOS14~
-- https://apps.apple.com/jp/app/icoffee/id6443656133
+- [AppStoreリンク](https://apps.apple.com/jp/app/icoffee/id6443656133)
 
 ![IMG_8776](https://user-images.githubusercontent.com/82485612/199112399-fd68e55e-f22d-48f4-8c22-4041720219fb.PNG)
 ![IMG_8777](https://user-images.githubusercontent.com/82485612/199112410-6fb43699-fb92-4dcd-8a1e-87f071a77a29.PNG)
@@ -38,7 +38,7 @@
 ### 概要
 - 入力ソースを画面上に表示するアプリ
 - 対応OS: MacOS 12.0以降(Monterey)
-- https://apps.apple.com/jp/app/inputsourceviewer/id1617894390?mt=12
+- [AppStoreリンク](https://apps.apple.com/jp/app/inputsourceviewer/id1617894390?mt=12)
 
 ### 技術スタック
 #### UI フレームワーク
