@@ -24,7 +24,6 @@
 #### ライブラリ
 - Firebase(Analytics, Auth, Crashlytics, Firestore)
 - Rx(RxSwift, RxCocoa, RxRealm)
-- Google-Mobile-Ads-SDK
 - Realm
 - SnapKit
 - SwiftDate
