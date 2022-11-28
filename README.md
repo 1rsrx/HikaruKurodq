@@ -3,7 +3,7 @@
 ## iCoffee
 - 概要
   - コーヒーのレシピ管理、タイマーアプリ(iOS >= 14.0)
-  - - [AppStoreリンク](https://apps.apple.com/jp/app/icoffee/id6443656133)
+  - [AppStoreリンク](https://apps.apple.com/jp/app/icoffee/id6443656133)
 - 技術スタック
   - UIフレームワーク
     - UIKit
